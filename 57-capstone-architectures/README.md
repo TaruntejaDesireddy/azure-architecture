@@ -64,6 +64,67 @@ Work each area through these stages rather than stopping at "deployed":
 | `CAP-011` | Enterprise Identity Architecture | ☐ |
 | `CAP-012` | Ransomware Resilient Azure | ☐ |
 
+## 📎 Additional topics (55)
+
+Carried over from the earlier 23-module roadmap — concepts it tracked that this
+module has no dedicated folder for.
+
+- [ ] Now stop thinking only about individual services.
+- [ ] Small company
+- [ ] App
+- [ ] Private Database
+- [ ] ├── Production
+- [ ] └── Sandbox
+- [ ] ├── Hub
+- [ ] ├── Spokes
+- [ ] This is the project that ties everything together.
+- [ ] Employees
+- [ ] Administrators
+- [ ] Developers
+- [ ] Production workloads
+- [ ] Development workloads
+- [ ] APIs
+- [ ] VMs
+- [ ] Internet-facing services
+- [ ] You must design and secure the entire environment.
+- [ ] Capstone tasks
+- [ ] 001 — Requirements
+- [ ] 002 — Threat model
+- [ ] 005 — RBAC model
+- [ ] 006 — PIM
+- [ ] 007 — Conditional Access
+- [ ] 009 — VNet
+- [ ] 011 — NSG
+- [ ] 012 — ASG
+- [ ] 015 — WAF
+- [ ] 022 — Container environment
+- [ ] 023 — Database
+- [ ] 035 — Playbooks
+- [ ] 038 — Attack Path Analysis
+- [ ] The individual task format
+- [ ] 1. Why is the rule required?
+- [ ] 2. What is the minimum required access?
+- [ ] 3. What is the attack surface?
+- [ ] 4. How would you detect abuse?
+- [ ] 5. How would you remediate a bad rule?
+- [ ] Your progression
+- [ ] LEVEL 1
+- [ ] Understand
+- [ ] LEVEL 2
+- [ ] LEVEL 3
+- [ ] Configure
+- [ ] LEVEL 4
+- [ ] LEVEL 5
+- [ ] Break/Misconfigure in a lab
+- [ ] LEVEL 6
+- [ ] LEVEL 7
+- [ ] Investigate
+- [ ] LEVEL 8
+- [ ] Remediate
+- [ ] LEVEL 9
+- [ ] Automate
+- [ ] LEVEL 10
+
 ---
 
 [← Roadmap](../README.md) &nbsp;·&nbsp; [Certification mapping](../certification-mapping/)

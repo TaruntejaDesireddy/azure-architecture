@@ -59,6 +59,18 @@ Work each area through these stages rather than stopping at "deployed":
 | `LAB-011` | Privilege Escalation Scenario | ☐ |
 | `LAB-012` | Ransomware Detection Scenario | ☐ |
 
+## 📎 Additional topics (6)
+
+Carried over from the earlier 23-module roadmap — concepts it tracked that this
+module has no dedicated folder for.
+
+- [ ] This is where the repo becomes really good.
+- [ ] LAB-002 Weak NSG
+- [ ] LAB-003 Overprivileged RBAC
+- [ ] LAB-008 Public VM
+- [ ] LAB-011 AKS Misconfiguration
+- [ ] Keep attack activities inside isolated lab environments that you own/control.
+
 ---
 
 [← Roadmap](../README.md) &nbsp;·&nbsp; [Certification mapping](../certification-mapping/)

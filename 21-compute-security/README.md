@@ -54,6 +54,18 @@ Work each area through these stages rather than stopping at "deployed":
 | `defender-for-servers/` | ☐ |
 | `vm-incident-response/` | ☐ |
 
+## 📎 Additional topics (6)
+
+Carried over from the earlier 23-module roadmap — concepts it tracked that this
+module has no dedicated folder for.
+
+- [ ] VMs
+- [ ] NSGs
+- [ ] JIT
+- [ ] vTPM
+- [ ] Patch management
+- [ ] Diagnostic logs
+
 ---
 
 [← Roadmap](../README.md) &nbsp;·&nbsp; [Certification mapping](../certification-mapping/)

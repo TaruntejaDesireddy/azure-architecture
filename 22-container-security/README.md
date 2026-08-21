@@ -59,6 +59,14 @@ Work each area through these stages rather than stopping at "deployed":
 | `aks-monitoring/` | ☐ |
 | `defender-for-containers/` | ☐ |
 
+## 📎 Additional topics (2)
+
+Carried over from the earlier 23-module roadmap — concepts it tracked that this
+module has no dedicated folder for.
+
+- [ ] Kubernetes RBAC
+- [ ] Private AKS
+
 ---
 
 [← Roadmap](../README.md) &nbsp;·&nbsp; [Certification mapping](../certification-mapping/)

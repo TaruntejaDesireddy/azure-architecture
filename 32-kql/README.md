@@ -73,6 +73,22 @@ Work each area through these stages rather than stopping at "deployed":
 | `detections/` | ☐ |
 | `cheat-sheets/` | ☐ |
 
+## 📎 Additional topics (10)
+
+Carried over from the earlier 23-module roadmap — concepts it tracked that this
+module has no dedicated folder for.
+
+- [ ] This should become a major personal KQL library.
+- [ ] SigninLogs
+- [ ] ResourceChanges
+- [ ] Parse
+- [ ] Extend
+- [ ] Project
+- [ ] Where
+- [ ] Dynamic data
+- [ ] Variables
+- [ ] Entity extraction
+
 ---
 
 [← Roadmap](../README.md) &nbsp;·&nbsp; [Certification mapping](../certification-mapping/)

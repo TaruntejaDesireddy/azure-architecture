@@ -65,6 +65,33 @@ Work each area through these stages rather than stopping at "deployed":
 | `packet-capture/` | ☐ |
 | `network-security-baseline/` | ☐ |
 
+## 📎 Additional topics (21)
+
+Carried over from the earlier 23-module roadmap — concepts it tracked that this
+module has no dedicated folder for.
+
+- [ ] This should be one of your biggest modules.
+- [ ] Inbound rules
+- [ ] Outbound rules
+- [ ] Priority
+- [ ] Service tags
+- [ ] NSG association
+- [ ] ASG creation
+- [ ] NSG + ASG
+- [ ] Dynamic workload grouping
+- [ ] Routing
+- [ ] System routes
+- [ ] Effective routes
+- [ ] Next hop
+- [ ] Forced tunneling
+- [ ] DNS resolution
+- [ ] FQDN filtering
+- [ ] WAF logs
+- [ ] False positives
+- [ ] Tuning
+- [ ] Other
+- [ ] Connection troubleshoot
+
 ---
 
 [← Roadmap](../README.md) &nbsp;·&nbsp; [Certification mapping](../certification-mapping/)

@@ -59,6 +59,17 @@ Work each area through these stages rather than stopping at "deployed":
 | `emergency-access/` | ☐ |
 | `privileged-access-workstations/` | ☐ |
 
+## 📎 Additional topics (5)
+
+Carried over from the earlier 23-module roadmap — concepts it tracked that this
+module has no dedicated folder for.
+
+- [ ] Built-in roles
+- [ ] Management group RBAC
+- [ ] Subscription RBAC
+- [ ] Resource group RBAC
+- [ ] Resource RBAC
+
 ---
 
 [← Roadmap](../README.md) &nbsp;·&nbsp; [Certification mapping](../certification-mapping/)

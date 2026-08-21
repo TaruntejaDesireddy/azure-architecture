@@ -66,6 +66,15 @@ Work each area through these stages rather than stopping at "deployed":
 | `gcp/` | ☐ |
 | `remediation/` | ☐ |
 
+## 📎 Additional topics (3)
+
+Carried over from the earlier 23-module roadmap — concepts it tracked that this
+module has no dedicated folder for.
+
+- [ ] Attack Path Analysis
+- [ ] Governance rules
+- [ ] Continuous export
+
 ---
 
 [← Roadmap](../README.md) &nbsp;·&nbsp; [Certification mapping](../certification-mapping/)

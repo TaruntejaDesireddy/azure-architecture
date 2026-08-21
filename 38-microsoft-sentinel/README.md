@@ -67,6 +67,22 @@ Work each area through these stages rather than stopping at "deployed":
 | `hunting/` | ☐ |
 | `cost-management/` | ☐ |
 
+## 📎 Additional topics (10)
+
+Carried over from the earlier 23-module roadmap — concepts it tracked that this
+module has no dedicated folder for.
+
+- [ ] This should be SOC-level training.
+- [ ] Scheduled rules
+- [ ] Near-real-time rules
+- [ ] Fusion
+- [ ] Entity mapping
+- [ ] Incident creation
+- [ ] Alert grouping
+- [ ] Bookmarks
+- [ ] Visualization
+- [ ] Dashboards
+
 ---
 
 [← Roadmap](../README.md) &nbsp;·&nbsp; [Certification mapping](../certification-mapping/)

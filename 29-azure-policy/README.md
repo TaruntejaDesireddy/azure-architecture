@@ -57,6 +57,17 @@ Work each area through these stages rather than stopping at "deployed":
 | `compute/` | ☐ |
 | `logging/` | ☐ |
 
+## 📎 Additional topics (5)
+
+Carried over from the earlier 23-module roadmap — concepts it tracked that this
+module has no dedicated folder for.
+
+- [ ] Deny public IP
+- [ ] Require HTTPS
+- [ ] Require tags
+- [ ] Restrict resource types
+- [ ] Require secure transfer
+
 ---
 
 [← Roadmap](../README.md) &nbsp;·&nbsp; [Certification mapping](../certification-mapping/)

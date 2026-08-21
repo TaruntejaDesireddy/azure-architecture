@@ -56,6 +56,17 @@ Work each area through these stages rather than stopping at "deployed":
 | `troubleshooting/` | ☐ |
 | `ca-architecture/` | ☐ |
 
+## 📎 Additional topics (5)
+
+Carried over from the earlier 23-module roadmap — concepts it tracked that this
+module has no dedicated folder for.
+
+- [ ] Admin MFA
+- [ ] Location-based controls
+- [ ] Risk-based controls
+- [ ] Guest restrictions
+- [ ] And learn how to troubleshoot Conditional Access.
+
 ---
 
 [← Roadmap](../README.md) &nbsp;·&nbsp; [Certification mapping](../certification-mapping/)

@@ -53,6 +53,13 @@ Work each area through these stages rather than stopping at "deployed":
 | `managed-databases/` | ☐ |
 | `database-monitoring/` | ☐ |
 
+## 📎 Additional topics (1)
+
+Carried over from the earlier 23-module roadmap — concepts it tracked that this
+module has no dedicated folder for.
+
+- [ ] SQL logs
+
 ---
 
 [← Roadmap](../README.md) &nbsp;·&nbsp; [Certification mapping](../certification-mapping/)

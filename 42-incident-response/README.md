@@ -65,6 +65,23 @@ Work each area through these stages rather than stopping at "deployed":
 | `storage-exposure/` | ☐ |
 | `suspicious-network-activity/` | ☐ |
 
+## 📎 Additional topics (11)
+
+Carried over from the earlier 23-module roadmap — concepts it tracked that this
+module has no dedicated folder for.
+
+- [ ] Build complete scenarios.
+- [ ] Scenario 1
+- [ ] Scenario 2
+- [ ] Scenario 3
+- [ ] Scenario 4
+- [ ] Scenario 5
+- [ ] Scenario 6
+- [ ] Scenario 7
+- [ ] Scenario 8
+- [ ] Scenario 9
+- [ ] Triage
+
 ---
 
 [← Roadmap](../README.md) &nbsp;·&nbsp; [Certification mapping](../certification-mapping/)

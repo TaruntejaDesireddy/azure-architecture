@@ -57,6 +57,13 @@ Work each area through these stages rather than stopping at "deployed":
 | `monitoring/` | ☐ |
 | `incident-response/` | ☐ |
 
+## 📎 Additional topics (1)
+
+Carried over from the earlier 23-module roadmap — concepts it tracked that this
+module has no dedicated folder for.
+
+- [ ] Certificate management
+
 ---
 
 [← Roadmap](../README.md) &nbsp;·&nbsp; [Certification mapping](../certification-mapping/)

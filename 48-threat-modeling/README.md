@@ -55,6 +55,16 @@ Work each area through these stages rather than stopping at "deployed":
 | `ai/` | ☐ |
 | `architecture-reviews/` | ☐ |
 
+## 📎 Additional topics (4)
+
+Carried over from the earlier 23-module roadmap — concepts it tracked that this
+module has no dedicated folder for.
+
+- [ ] APIs
+- [ ] Trust boundaries
+- [ ] Threat actors
+- [ ] Compensating controls
+
 ---
 
 [← Roadmap](../README.md) &nbsp;·&nbsp; [Certification mapping](../certification-mapping/)

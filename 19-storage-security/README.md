@@ -62,6 +62,13 @@ Work each area through these stages rather than stopping at "deployed":
 | `defender-for-storage/` | ☐ |
 | `storage-monitoring/` | ☐ |
 
+## 📎 Additional topics (1)
+
+Carried over from the earlier 23-module roadmap — concepts it tracked that this
+module has no dedicated folder for.
+
+- [ ] Account keys
+
 ---
 
 [← Roadmap](../README.md) &nbsp;·&nbsp; [Certification mapping](../certification-mapping/)

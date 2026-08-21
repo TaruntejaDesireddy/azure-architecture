@@ -57,6 +57,17 @@ Work each area through these stages rather than stopping at "deployed":
 | `resource-organization/` | ☐ |
 | `landing-zones/` | ☐ |
 
+## 📎 Additional topics (5)
+
+Carried over from the earlier 23-module roadmap — concepts it tracked that this
+module has no dedicated folder for.
+
+- [ ] Policy definitions
+- [ ] Policy assignments
+- [ ] Subscription governance
+- [ ] Tag governance
+- [ ] Allowed resource types
+
 ---
 
 [← Roadmap](../README.md) &nbsp;·&nbsp; [Certification mapping](../certification-mapping/)

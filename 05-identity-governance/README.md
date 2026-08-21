@@ -52,6 +52,13 @@ Work each area through these stages rather than stopping at "deployed":
 | `access-certification/` | ☐ |
 | `governance-automation/` | ☐ |
 
+## 📎 Additional topics (1)
+
+Carried over from the earlier 23-module roadmap — concepts it tracked that this
+module has no dedicated folder for.
+
+- [ ] Guest lifecycle
+
 ---
 
 [← Roadmap](../README.md) &nbsp;·&nbsp; [Certification mapping](../certification-mapping/)
