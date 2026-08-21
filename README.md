@@ -158,9 +158,7 @@ Mapped, not organised around — see [`certification-mapping/`](certification-ma
 | Repo | What it is |
 |---|---|
 | [azure-soc-lab](https://github.com/TaruntejaDesireddy/azure-soc-lab) | The material — build record, training paths, detections, how-to guides *(private)* |
-| [azure-security-engineer-lab](https://github.com/TaruntejaDesireddy/azure-security-engineer-lab) | An earlier, coarser 23-module view of the same ground *(private)* |
 | [cybersoc-portfolio](https://github.com/TaruntejaDesireddy/cybersoc-portfolio) | Public showcase — analytics rules, playbooks, workbooks, Bicep IaC |
 
-> **These three overlap on purpose and should not be worked in parallel.** `azure-soc-lab` is the
-> content; this repo and `azure-security-engineer-lab` are two different indexes over it. Pick one
-> index and stay in it.
+> **This repo and `azure-soc-lab` overlap on purpose.** That one is the content; this one is an
+> index over it. Don't work both in parallel — follow the links from here into the material.
